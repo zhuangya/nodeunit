@@ -80,7 +80,7 @@
   },
   "dependencies": {
     "ejs": "^2.5.2",
-    "tap": "^7.0.0"
+    "tap": "^9.0.0"
   },
   "scripts": {
     "test": "node ./bin/nodeunit"
